@@ -41,7 +41,6 @@ public class HiddenSecrets {
 
     public static void main(String[] args) {
         // Put your code to request a file path,
-
         // read in a string from System.in,
         Scanner s = new Scanner(System.in);
         System.out.println("Please provide me a file path");
